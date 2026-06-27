@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and cook dinner",
+    "status": "todo",
+    "createdAt": "2026-06-27T15:36:13.955Z",
+    "updatedAt": "2026-06-27T15:36:31.469Z"
+  },
+  {
+    "id": 2,
+    "description": "Learn Node.js",
+    "status": "in-progress",
+    "createdAt": "2026-06-27T15:36:14.037Z",
+    "updatedAt": "2026-06-27T15:36:49.551Z"
+  },
+  {
+    "id": 3,
+    "description": "Complete assignment",
+    "status": "todo",
+    "createdAt": "2026-06-27T15:36:14.109Z",
+    "updatedAt": "2026-06-27T15:36:14.109Z"
+  }
+]
